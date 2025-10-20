@@ -1,0 +1,4 @@
+douglaspnt
+git config --global user.name douglaspnt
+
+git config --global user.email douglaspnt2@gmail.com
