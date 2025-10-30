@@ -5,10 +5,10 @@ git config --global user.email douglaspnt2@gmail.com
 
 commit / e igual um comentario marco historico do projeto 
 
-ls => mostra o que tem na paz 
+ls => mostra o que tem na pasta
 
 
-touch => cria o arquivo na paz
+touch => cria o arquivo na pasta
 rm => remove o arquivo da pasta
 
 cd .. => volta a pasta anterior 
